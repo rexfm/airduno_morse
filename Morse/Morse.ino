@@ -74,10 +74,6 @@ void loop()
   }
 }
 
-/* 'h' --> "...."
-   'o' --> "---" 
-   'l' --> '.-.."
- */
 void letterId(char* character, int led_pin) {
   int i = 0;
    while(character[i] != '\0') {
