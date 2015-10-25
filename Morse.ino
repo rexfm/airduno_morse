@@ -1,6 +1,6 @@
-int LED_Y = 2;
-int LED_R = 5; 
-int buzzerPin = 3;
+int LED_Y = 13;
+int LED_R = 13; 
+int buzzerPin = 13;
 int dot = 150;
 
 char* morseLetters[] = {
